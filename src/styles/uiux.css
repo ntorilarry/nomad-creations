@@ -1,0 +1,58 @@
+.big_container {
+    border-radius: 52px;
+    -webkit-border-radius: 52px;
+    -moz-border-radius: 52px;
+    -ms-border-radius: 52px;
+    -o-border-radius: 52px;
+    background-color: #f9f9f9;
+}
+
+.small_container {
+    border-radius: 32px;
+    -webkit-border-radius: 32px;
+    -moz-border-radius: 32px;
+    -ms-border-radius: 32px;
+    -o-border-radius: 32px;
+    margin: auto;
+    margin-top: 48px;
+    background-color: #f2f2f2;
+}
+
+.but {
+    width: 16rem;
+    background-color: #f2f2f2;
+    border-radius: 100px;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    -ms-border-radius: 100px;
+    -o-border-radius: 100px;
+    font-family: 'Rubik', sans-serif;
+    height: 80px;
+    margin-top: 73px;
+    font-size: 25px;
+    color: #0e0e0e23;
+
+}
+.but2 {
+    width: 16rem;
+    background-color: #ff0000;
+    border-radius: 100px;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    -ms-border-radius: 100px;
+    -o-border-radius: 100px;
+    font-family: 'Rubik', sans-serif;
+    height: 80px;
+    margin-top: 73px;
+    font-size: 25px;
+    color: #0e0e0e23;
+
+}
+
+.uiux_heading {
+    font-family: 'Rubik', sans-serif;
+    font-size: 30px;
+    font-weight: 300;
+    padding-bottom: 50px;
+}
+
