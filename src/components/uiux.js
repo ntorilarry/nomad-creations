@@ -16,8 +16,6 @@ function Uiux() {
                 <div className="w-10 h-10 border-4 rounded-full mx-auto mt-8  "></div>
               </div>
               <div className="mt-32">
-                {/* <p>Let's go!</p> */}
-
                 <button className="but2"></button>
               </div>
             </div>
